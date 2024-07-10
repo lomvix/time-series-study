@@ -3,6 +3,8 @@
 
 [Google Stock Price](https://www.kaggle.com/datasets/henryshan/google-stock-price)
 
+[UCI:UCI ElectricityLoadDiagrams20112014](https://archive.ics.uci.edu/ml/machine-learning-databases/00321/LD2011_2014.txt.zip)
+
 reference:
 > [使用Transformer 模型进行时间序列预测](https://cloud.tencent.com/developer/article/2384397)
 
@@ -19,4 +21,10 @@ reference:
 目标：预测未来16天每个产品、每个商店的销售情况。
 
 ---
-VAR、ARDL:多元时间序列分析 
+VAR、ARDL:传统统计模型时间序列分析 
+
+---
+Temporal fusion transformer(TFT):参数量巨大的模型，跑通了但是没跑完,有模板
+
+---
+TCN：时域卷积网络(Temporal Convolutional Network)还没跑
