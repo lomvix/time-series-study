@@ -23,6 +23,8 @@ reference:
 ---
 VAR、ARDL:传统统计模型时间序列分析 
 
+var文件里有统计检验分析 如协整检验
+
 ---
 Temporal fusion transformer(TFT):参数量巨大的模型，跑通了但是没跑完,有模板
 
@@ -31,3 +33,7 @@ TCN：时域卷积网络(Temporal Convolutional Network)还没跑
 
 ---
 detrend：时间序列去趋势，傅里叶时间序列去噪
+
+---
+optuna：超参数调参
+SHAP：模型无关的可解释性方法（还没看也没具体应用）
