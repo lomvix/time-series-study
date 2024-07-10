@@ -28,3 +28,6 @@ Temporal fusion transformer(TFT):参数量巨大的模型，跑通了但是没�
 
 ---
 TCN：时域卷积网络(Temporal Convolutional Network)还没跑
+
+---
+detrend：时间序列去趋势，傅里叶时间序列去噪
