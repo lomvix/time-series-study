@@ -1,4 +1,5 @@
 数据集：
+
 [Store Sales - Time Series Forecasting](https://cloud.tencent.com/developer/article/2384397)
 
 [Google Stock Price](https://www.kaggle.com/datasets/henryshan/google-stock-price)
@@ -27,13 +28,16 @@ var文件里有统计检验分析 如协整检验
 
 ---
 Temporal fusion transformer(TFT):参数量巨大的模型，跑通了但是没跑完,有模板
+> [基于深度学习的时间序列预测:Temporal Fusion Transformer](https://blog.csdn.net/wjjc1017/article/details/135913845)
 
 ---
 TCN：时域卷积网络(Temporal Convolutional Network)还没跑
+> [PyTorch实现TCN时间卷积网络进行时间序列预测](https://blog.csdn.net/java1314777/article/details/134687303)
 
 ---
 detrend：时间序列去趋势，傅里叶时间序列去噪
 
 ---
 optuna：超参数调参
+
 SHAP：模型无关的可解释性方法（还没看也没具体应用）
