@@ -40,6 +40,10 @@ Crossformer：(还没跑)
 > [github](https://github.com/Thinklab-SJTU/Crossformer)
 
 ---
+SegRNN：(还没跑)
+> [SegRNN: Segment Recurrent Neural Network for Long-Term Time Series Forecasting](https://paperswithcode.com/paper/segrnn-segment-recurrent-neural-network-for)
+> [github](https://github.com/lss-1138/SegRNN)
+---
 detrend：时间序列去趋势，傅里叶时间序列去噪
 
 ---
