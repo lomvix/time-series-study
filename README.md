@@ -31,8 +31,13 @@ Temporal fusion transformer(TFT):参数量巨大的模型，跑通了但是没�
 > [基于深度学习的时间序列预测:Temporal Fusion Transformer](https://blog.csdn.net/wjjc1017/article/details/135913845)
 
 ---
-TCN：时域卷积网络(Temporal Convolutional Network)还没跑
+TCN：时域卷积网络(Temporal Convolutional Network)跑通了效果还行
 > [PyTorch实现TCN时间卷积网络进行时间序列预测](https://blog.csdn.net/java1314777/article/details/134687303)
+
+---
+Crossformer：(还没跑)
+> [时间序列预测实战Crossformer](https://blog.csdn.net/java1314777/article/details/134670578)
+> [github](https://github.com/Thinklab-SJTU/Crossformer)
 
 ---
 detrend：时间序列去趋势，傅里叶时间序列去噪
