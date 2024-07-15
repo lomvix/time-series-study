@@ -6,6 +6,8 @@
 
 [UCI:UCI ElectricityLoadDiagrams20112014](https://archive.ics.uci.edu/ml/machine-learning-databases/00321/LD2011_2014.txt.zip)
 
+[IGBT Accelerated Aging Data Set - NASA](https://data.nasa.gov/download/7wwx-fk77/application%2Fzip)
+
 reference:
 > [使用Transformer 模型进行时间序列预测](https://cloud.tencent.com/developer/article/2384397)
 
