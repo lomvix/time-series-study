@@ -41,12 +41,18 @@ TCN：时域卷积网络(Temporal Convolutional Network)跑通了效果还行
 ---
 Crossformer：(还没跑)
 > [时间序列预测实战Crossformer](https://blog.csdn.net/java1314777/article/details/134670578)
+
 > [github](https://github.com/Thinklab-SJTU/Crossformer)
 
 ---
 SegRNN：(还没跑)
 > [SegRNN: Segment Recurrent Neural Network for Long-Term Time Series Forecasting](https://paperswithcode.com/paper/segrnn-segment-recurrent-neural-network-for)
+
 > [github](https://github.com/lss-1138/SegRNN)
+---
+Mamba：
+> [Mamba的架构及实现](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247630782&idx=1&sn=82a2d74642278e0fb03f0954a03b7692&chksm=e8d0e224b82c7033404262318f4c8a6f3f50db716d32dc6e4f3fb870bca2fe5b757f9d1940d7&scene=27)
+
 ---
 detrend：时间序列去趋势，傅里叶时间序列去噪
 
