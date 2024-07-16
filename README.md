@@ -31,6 +31,9 @@ VAR、ARDL:传统统计模型时间序列分析
 var文件里有统计检验分析 如协整检验
 
 ---
+LSTM: 里面有两个模板，后面一个模板相对简单理解
+
+---
 Temporal fusion transformer(TFT):参数量巨大的模型，跑通了但是没跑完,有模板
 > [基于深度学习的时间序列预测:Temporal Fusion Transformer](https://blog.csdn.net/wjjc1017/article/details/135913845)
 
