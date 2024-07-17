@@ -66,6 +66,8 @@ iTransformer：[iTransformer深度解析：时序预测新SOTA](https://blog.csd
 detrend：时间序列去趋势，傅里叶时间序列去噪
 
 ---
-optuna：超参数调参
+optuna：超参数调参[使用optuna对模型的超参数进行自动优化](https://www.jianshu.com/p/2513dc63e0ba)
+
+
 
 SHAP：模型无关的可解释性方法（还没看也没具体应用）
