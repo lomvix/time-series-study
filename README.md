@@ -40,6 +40,8 @@ Temporal fusion transformer(TFT):参数量巨大的模型，跑通了但是没�
 ---
 TCN：时域卷积网络(Temporal Convolutional Network)跑通了效果还行
 > [PyTorch实现TCN时间卷积网络进行时间序列预测](https://blog.csdn.net/java1314777/article/details/134687303)
+>
+> [TCN](http://home.ustc.edu.cn/~liujunyan/blog/tcn/)
 
 ---
 Crossformer：(还没跑)
