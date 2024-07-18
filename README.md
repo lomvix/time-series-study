@@ -58,6 +58,12 @@ SegRNN：(还没跑)
 Mamba：
 > [Mamba的架构及实现](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247630782&idx=1&sn=82a2d74642278e0fb03f0954a03b7692&chksm=e8d0e224b82c7033404262318f4c8a6f3f50db716d32dc6e4f3fb870bca2fe5b757f9d1940d7&scene=27)
 
+Simba:
+
+[github](https://github.com/badripatro/Simba)
+
+paper:[SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series](https://arxiv.org/abs/2403.15360)
+
 ---
 iTransformer：[iTransformer深度解析：时序预测新SOTA](https://blog.csdn.net/qq_33431368/article/details/134543912?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522172111726316800188518259%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=172111726316800188518259&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-4-134543912-null-null.142^v100^pc_search_result_base3&utm_term=iTransformer&spm=1018.2226.3001.4187)
 
