@@ -69,6 +69,12 @@ iTransformer：[iTransformer深度解析：时序预测新SOTA](https://blog.csd
 
 [github](https://github.com/lucidrains/iTransformer)
 
+---
+PatchTST:(跑通了)
+
+[Transformer时间序列：PatchTST引领时间序列预测](https://blog.csdn.net/weixin_42010722/article/details/131430367)
+
+
 
 ---
 detrend：时间序列去趋势，傅里叶时间序列去噪
