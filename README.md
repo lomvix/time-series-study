@@ -85,3 +85,6 @@ optuna：超参数调参[使用optuna对模型的超参数进行自动优化](ht
 
 
 SHAP：模型无关的可解释性方法（还没看也没具体应用）
+
+
+NeuralForecast：集成时间序列模型的库 [NeuralForecast](https://blog.csdn.net/FrankieHello/article/details/135190192?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ECtr-3-135190192-blog-136980609.235%5Ev43%5Epc_blog_bottom_relevance_base5&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ECtr-3-135190192-blog-136980609.235%5Ev43%5Epc_blog_bottom_relevance_base5&utm_relevant_index=2)
