@@ -15,7 +15,9 @@ reference:
 
 > [时序预测Time Series Forecasting:实体店销售](https://www.cnblogs.com/March7th/p/17289259.html)
 
->[金融时间序列分析讲义](https://www.math.pku.edu.cn/teachers/lidf/course/fts/ftsnotes/html/_ftsnotes/index.html) 
+>[金融时间序列分析讲义](https://www.math.pku.edu.cn/teachers/lidf/course/fts/ftsnotes/html/_ftsnotes/index.html)
+
+>[time series library](https://github.com/thuml/Time-Series-Library)
 
 ---
 
