@@ -80,6 +80,8 @@ PatchTST:(跑通了)
 
 ---
 detrend：时间序列去趋势，傅里叶时间序列去噪
+VMD：变分模态分解,是一种用来分离非固定频率信号的方法。
+wavelet denoise：时间序列小波降噪
 
 ---
 optuna：超参数调参[使用optuna对模型的超参数进行自动优化](https://www.jianshu.com/p/2513dc63e0ba)
