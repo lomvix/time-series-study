@@ -28,6 +28,9 @@ reference:
 目标：预测未来16天每个产品、每个商店的销售情况。
 
 ---
+LSM：Liquid State Machine (LSM)，脉冲神经网络变体
+
+---
 VAR、ARDL:传统统计模型时间序列分析 
 
 var文件里有统计检验分析 如协整检验
