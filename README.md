@@ -47,6 +47,7 @@ wavelet denoise：时间序列小波降噪
 
 ---
 LSTM: 里面有两个模板，后面一个模板相对简单理解
+xLSTM：lstm新变体
 
 ---
 Temporal fusion transformer(TFT):参数量巨大的模型，跑通了但是没跑完,有模板
