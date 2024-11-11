@@ -28,12 +28,19 @@ reference:
 目标：预测未来16天每个产品、每个商店的销售情况。
 
 ---
+
+信号相关的模型与处理
 LSM：Liquid State Machine (LSM)，脉冲神经网络变体
 
----
 VAR、ARDL:传统统计模型时间序列分析 
 
 var文件里有统计检验分析 如协整检验
+
+detrend：时间序列去趋势，傅里叶时间序列去噪
+
+VMD：变分模态分解,是一种用来分离非固定频率信号的方法。
+
+wavelet denoise：时间序列小波降噪
 
 ---
 LSTM: 里面有两个模板，后面一个模板相对简单理解
@@ -79,12 +86,6 @@ PatchTST:(跑通了)
 
 [Transformer时间序列：PatchTST引领时间序列预测](https://blog.csdn.net/weixin_42010722/article/details/131430367)
 
-
-
----
-detrend：时间序列去趋势，傅里叶时间序列去噪
-VMD：变分模态分解,是一种用来分离非固定频率信号的方法。
-wavelet denoise：时间序列小波降噪
 
 ---
 optuna：超参数调参[使用optuna对模型的超参数进行自动优化](https://www.jianshu.com/p/2513dc63e0ba)
