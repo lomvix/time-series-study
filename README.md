@@ -30,6 +30,7 @@ reference:
 ---
 
 信号相关的模型与处理
+
 LSM：Liquid State Machine (LSM)，脉冲神经网络变体
 
 VAR、ARDL:传统统计模型时间序列分析 
